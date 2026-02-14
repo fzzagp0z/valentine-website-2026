@@ -34,8 +34,8 @@ const CONFIG = {
         },
         third: {
             text: "Will we last forever? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No ;("                                                 // Text for "No" button
+            yesBtn: "Yes! Ofcourse Baby!",                                             // Text for "Yes" button
+            noBtn: "No ;( (WE WILL!)"                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world sweetheart! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest person in the world my sweetheart! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dlz75imsz/video/upload/v1771090627/Pretty_Girl_Clairo_432Hz_shbjl0.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.2                        // Volume level (0.0 to 1.0)
     }
 };
 
